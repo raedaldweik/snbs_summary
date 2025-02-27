@@ -1,6 +1,8 @@
 pandas
 streamlit
-altair
-python-dotenv
 openai
+altair
+openpyxl
+python-dotenv
+
 
