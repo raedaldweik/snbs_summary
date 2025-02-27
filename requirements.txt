@@ -1,0 +1,6 @@
+pandas
+streamlit
+altair
+python-dotenv
+openai
+
